@@ -1,0 +1,4 @@
+#!/bin/sh
+# echo is equivalent to printf but it by defaults print new line
+
+echo "Hello world"
