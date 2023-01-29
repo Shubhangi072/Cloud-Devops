@@ -1,7 +1,6 @@
 #! bin/sh
-r 
-#
-echo "Enter the number
+
+echo "Enter the number"
 read num
 if [$num -lt 0]
 then
